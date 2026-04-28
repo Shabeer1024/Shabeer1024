@@ -1,10 +1,10 @@
-[![Shabeer1024 - CloudOps Engineer](./banner.png)](https://www.linkedin.com/in/shabeer-s-82690a156/)
+![Shabeer1024 - CloudOps Engineer](./banner.png)
 
 <p align="center">
-  <img src="./banner.png" alt="Shabeer1024 - CloudOps Engineer" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Senior+Cloud+%26+Infrastructure+Engineer;Azure+%7C+Terraform+%7C+Ansible+%7C+DevOps;Building+secure%2C+scalable+cloud+solutions" alt="Typing SVG" />
+  </a>
 </p>
-
----
 
 ### 👨‍💻 About Me
 
