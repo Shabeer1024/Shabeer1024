@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Shabeer1024 - CloudOps Engineer" width="100%" />
+  <img src="./banner1.png" alt="Shabeer1024 - CloudOps Engineer" width="100%" />
 </p>
 
 ---
