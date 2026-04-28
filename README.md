@@ -1,20 +1,18 @@
-![Shabeer1024 - CloudOps Engineer](./banner.png)
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Senior+Cloud+%26+Infrastructure+Engineer;Azure+%7C+Terraform+%7C+Ansible+%7C+DevOps;Building+secure%2C+scalable+cloud+solutions" alt="Typing SVG" />
-  </a>
+  <img src="./banner.png" alt="Shabeer1024 - CloudOps Engineer" width="100%" />
 </p>
+
+---
 
 ### 👨‍💻 About Me
 
 ```powershell
 function Get-ShabeerProfile {
     $profile = @{
-        Role        = "Cloud Infrastructure"
+        Role        = "Senior Consultant / EUC Architect"
         Experience  = "13+ years in Enterprise IT"
         Focus       = "Azure | Cloud Infrastructure | Automation"
-        Currently   = "Cloud Ops Engineer"
+        Currently   = "Transitioning to Cloud Ops Engineer"
         Learning    = @("Docker", "Kubernetes", "Azure DevOps", "AZ-305")
         Mindset     = "Hands-on, project-driven, always shipping"
         Motto       = "Automate the boring. Document the rest."
@@ -127,10 +125,10 @@ Get-ShabeerProfile
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shabeer-s-82690a156/">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shabeer.shukoor@outlook.com">
+  <a href="mailto:YOUR-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Shabeer1024">
@@ -148,4 +146,8 @@ Get-ShabeerProfile
   <i>"Infrastructure as Code is not just about automation —<br/>it's about building systems that are reliable, repeatable, and reviewable."</i>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+<p align="center">
+  ⭐ <i>If you like my work, consider following me!</i> ⭐
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&fontAlignY=70)
