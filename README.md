@@ -1,66 +1,77 @@
-<h1 align="center">Hey there! 👋 I'm Shabeer</h1>
-<h3 align="center">☁️ CloudOps Engineer in Progress | Azure Enthusiast | Terraform Wrangler</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shabeer1024&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CloudOps%20Engineer%20%7C%20Azure%20Architect%20%7C%20Terraform%20Specialist&descAlignY=55&descSize=18)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+break+things,+debug+things,+automate+things;And+occasionally+they+work+%F0%9F%98%85;Powered+by+chai,+chaos+%26+Ctrl%2BZ&font=Fira%20Code&center=true&width=600&height=45&color=00BFFF&vCenter=true&size=22">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Senior+Cloud+%26+Infrastructure+Engineer;Azure+%7C+Terraform+%7C+Ansible+%7C+DevOps;Building+secure%2C+scalable+cloud+solutions" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
 ```powershell
-function Show-Introduction {
-    $intro = @"
-    Oi! 👋
-    Name's Shabeer. I do things with computers
-    and occasionally they work.
-
-    📅 A TYPICAL DAY:
-      06:00 — Wake up, check phone, regret it 📱
-      09:00 — Open 47 browser tabs, read none 🗂️
-      11:00 — Google autocompletes my problem 🔮
-      14:00 — Stack Overflow saves me. Again. 🛟
-      17:00 — 'It works on my machine' (lies) 🎭
-      22:00 — Just one more YouTube video... 📺
-
-    🦆 Fun fact: My rubber duck has heard more
-       confessions than a priest.
-
-    ⚡ Powered by chai, chaos, and the unshakeable
-       belief that Ctrl+Z works in real life. ⏪
-"@
-    Write-Host $intro
+function Get-ShabeerProfile {
+    $profile = @{
+        Role        = "Senior Consultant / EUC Architect"
+        Experience  = "13+ years in Enterprise IT"
+        Focus       = "Azure | Cloud Infrastructure | Automation"
+        Currently   = "Transitioning to Cloud Ops Engineer"
+        Learning    = @("Docker", "Kubernetes", "Azure DevOps", "AZ-305")
+        Mindset     = "Hands-on, project-driven, always shipping"
+        Motto       = "Automate the boring. Document the rest."
+    }
+    return $profile
 }
 
-Show-Introduction
+Get-ShabeerProfile
 ```
 
 ---
 
-### 🚀 What I'm Up To
+### 🚀 What I'm Working On
 
-- 🔭 Currently wrestling with: **Terraform, Azure Networking, AVD**
-- 🌱 Currently learning: **Docker, Kubernetes, Azure DevOps**
-- 🎯 Goal: **Become a strong CloudOps Engineer**
-- 💬 Ask me about: **Azure Virtual Desktop, Terraform modules, Cloud architecture**
-- ⚡ Fun fact: **I debug better at 2 AM than 2 PM**
+- 🔭 **Currently building:** Modular Terraform architectures on Azure (AVD, Firewall, App Gateway, Load Balancer)
+- 🌱 **Currently learning:** Docker, Kubernetes (AKS), and CI/CD pipeline ownership
+- 🎯 **Career goal:** Senior Cloud Infrastructure Engineer in the Gulf region
+- 💼 **Open to:** Cloud Engineering opportunities (Remote / UAE / Qatar / KSA)
+- 💬 **Ask me about:** Azure Virtual Desktop, Azure Networking, Terraform modules, Ansible automation
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+#### ☁️ Cloud & Infrastructure
+<p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AVD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Networking-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+</p>
+
+#### 🔧 Infrastructure as Code & Automation
+<p>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
+
+#### 🐳 Containers & Orchestration *(Learning)*
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+</p>
+
+#### 🔄 DevOps & Tools
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
@@ -68,8 +79,8 @@ Show-Introduction
 ### 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AZ--140-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--700-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--140-Azure_Virtual_Desktop_Specialty-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--700-Azure_Network_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/AZ--305-In_Progress-FFA500?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
@@ -78,28 +89,65 @@ Show-Introduction
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shabeer1024&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shabeer1024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shabeer1024&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabeer1024&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabeer1024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 </p>
 
 ---
 
-### 🐍 My Coding Mantra
+### 🏆 GitHub Trophies
 
-> *"It's not a bug, it's an undocumented feature with strong opinions."*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shabeer1024&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shabeer1024&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🖥️ [**azure-avd-infra-automation**](https://github.com/Shabeer1024/azure-avd-infra-automation) | Enterprise AVD automation with golden image pipeline, FSLogix, monitoring & auto-scaling | `Terraform` `Azure` `AVD` |
+| 📦 [**avd-image-automation**](https://github.com/Shabeer1024/avd-image-automation) | Automated AVD image build & deployment pipeline | `Terraform` `Azure` |
+| 🏗️ [**Azure_IAS_complete_installation**](https://github.com/Shabeer1024/Azure_IAS_complete_installation) | Complete Azure infrastructure-as-code installation | `HCL` `Azure` |
+| ⚙️ [**Terraform-Works**](https://github.com/Shabeer1024/Terraform-Works) | Collection of production-ready Terraform modules | `Terraform` |
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shabeer-s-82690a156/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shabeer.shukoor@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shabeer1024">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shabeer1024&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
 <p align="center">
-  ⭐ <i>Loading personality... 100%</i> &nbsp;|&nbsp;
-  ⏳ <i>Loading motivation... 15%... cancelled</i> &nbsp;|&nbsp;
-  ☕ <i>Caffeinating... CRITICAL LEVELS</i>
+  <i>"Infrastructure as Code is not just about automation —<br/>it's about building systems that are reliable, repeatable, and reviewable."</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shabeer1024&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
