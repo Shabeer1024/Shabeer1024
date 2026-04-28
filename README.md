@@ -12,10 +12,10 @@
 ```powershell
 function Get-ShabeerProfile {
     $profile = @{
-        Role        = "Senior Consultant / EUC Architect"
+        Role        = "Cloud Infrastructure"
         Experience  = "13+ years in Enterprise IT"
         Focus       = "Azure | Cloud Infrastructure | Automation"
-        Currently   = "Transitioning to Cloud Ops Engineer"
+        Currently   = "Cloud Ops Engineer"
         Learning    = @("Docker", "Kubernetes", "Azure DevOps", "AZ-305")
         Mindset     = "Hands-on, project-driven, always shipping"
         Motto       = "Automate the boring. Document the rest."
