@@ -29,8 +29,8 @@ Get-ShabeerProfile
 
 - 🔭 **Currently building:** Modular Terraform architectures on Azure (AVD, Firewall, App Gateway, Load Balancer)
 - 🌱 **Currently learning:** Docker, Kubernetes (AKS), and CI/CD pipeline ownership
-- 🎯 **Career goal:** Senior Cloud Infrastructure Engineer in the Gulf region
-- 💼 **Open to:** Cloud Engineering opportunities (Remote / UAE / Qatar / KSA)
+- 🎯 **Career goal:** Azure Cloud Enthusiast ☁️ | CloudOps  | Exploring Azure Administration
+- 💼 **Open to:** Cloud Engineering opportunities (India / UAE / Qatar / KSA)
 - 💬 **Ask me about:** Azure Virtual Desktop, Azure Networking, Terraform modules, Ansible automation
 
 ---
