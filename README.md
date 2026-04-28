@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shabeer1024&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CloudOps%20Engineer%20%7C%20Azure%20Architect%20%7C%20Terraform%20Specialist&descAlignY=55&descSize=18)
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Senior+Cloud+%26+Infrastructure+Engineer;Azure+%7C+Terraform+%7C+Ansible+%7C+DevOps;Building+secure%2C+scalable+cloud+solutions" alt="Typing SVG" />
