@@ -115,6 +115,7 @@ Get-ShabeerProfile
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🔒 [**terraform-3tier-private-lab**](https://github.com/Shabeer1024/terraform-3tier-private-lab) | Production-grade 3-tier Azure architecture with Private Endpoints — data tier has zero public attack surface. Banking-compliant pattern. | `Terraform` `Azure` `PrivateEndpoint` `Security` |
 | 🖥️ [**azure-avd-infra-automation**](https://github.com/Shabeer1024/azure-avd-infra-automation) | Enterprise AVD automation with golden image pipeline, FSLogix, monitoring & auto-scaling | `Terraform` `Azure` `AVD` |
 | 📦 [**avd-image-automation**](https://github.com/Shabeer1024/avd-image-automation) | Automated AVD image build & deployment pipeline | `Terraform` `Azure` |
 | 🏗️ [**Azure_IAS_complete_installation**](https://github.com/Shabeer1024/Azure_IAS_complete_installation) | Complete Azure infrastructure-as-code installation | `HCL` `Azure` |
