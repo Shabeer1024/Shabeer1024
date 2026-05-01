@@ -77,7 +77,7 @@ Get-ShabeerProfile
 <p align="center">
   <img src="https://img.shields.io/badge/AZ--140-Azure_Virtual_Desktop_Specialty-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/AZ--700-Azure_Network_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--305-In_Progress-FFA500?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--305-FFA500?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ---
